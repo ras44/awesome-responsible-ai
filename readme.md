@@ -20,24 +20,28 @@
 - https://aisi.go.jp/
 - https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
 
-### Privately Funded
+### Privately Funded - Research
+- https://www.redwoodresearch.org/
+- https://www.apolloresearch.ai/
+- https://geodesicresearch.ai/
+- https://meridianlabs.ai/
+- https://apartresearch.com/
+- https://lawzero.org/en
+- https://sampura.org/
+- https://truthful.ai/
+- https://resolution.org/
+- https://epoch.ai/
+
+### Privately Funded - Education & Awareness
 - https://bluedot.org/
 - https://www.far.ai/
 - https://www.governance.ai/
 - https://www.safeai.org.uk/
 - https://kairos-project.org/
 - https://www.raiseimpact.org/
-- https://resolution.org/
-- https://www.redwoodresearch.org/
-- https://epoch.ai/
 - https://www.matsprogram.org/
-- https://www.apolloresearch.ai/
-- https://geodesicresearch.ai/
-- https://truthful.ai/
-- https://sampura.org/
 - https://80000hours.org/
 - https://idais.ai/
-- https://meridianlabs.ai/
 - https://future-matters.org/
 - https://theaipi.org/
 - https://www.centeraipolicy.org/
@@ -45,7 +49,7 @@
 - https://www.caidp.org/
 - https://kira.eu/
 - https://saif.org/
-- https://apartresearch.com/
+- https://pauseai.info/
 
 ### Frontier Labs
 - https://openai.com/safety/
@@ -104,7 +108,8 @@
 - https://moxsf.com/
 - https://www.stanfordaialignment.org/
 - https://ai-risk.berkeley.edu/
-
+- https://aisafetycolombia.org/
+- https://www.aisafety.sg/
 
 ## Funding
 - https://coefficientgiving.org/tailwind/
@@ -120,5 +125,9 @@
 - https://forum.effectivealtruism.org/topics/ai-safety
 - https://www.alignmentforum.org/
 - https://www.lesswrong.com/
+- https://news.ycombinator.com/
 
-
+# Related
+- https://github.com/giskard-ai/awesome-ai-safety (last commit 6 as of 20160916 was last year)
+- https://github.com/hari-sikchi/awesome-ai-safety (last commit 6 as of 20160916 was years ago)
+- https://github.com/shanzson/Awesome-AI-Safety (last commit 6 as of 20160916 was last year)
