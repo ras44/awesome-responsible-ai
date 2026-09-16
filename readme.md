@@ -85,6 +85,7 @@
 - https://www.matsprogram.org/
 - https://sparai.org/
 - https://aisb.dev/2026/dec/london/
+- https://gradualempowerment.org/
 
 ### Other
 - https://futureimpact.group/fellowship
@@ -118,5 +119,6 @@
 ## Forums
 - https://forum.effectivealtruism.org/topics/ai-safety
 - https://www.alignmentforum.org/
+- https://www.lesswrong.com/
 
 
