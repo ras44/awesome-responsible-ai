@@ -45,6 +45,7 @@
 - https://www.caidp.org/
 - https://kira.eu/
 - https://saif.org/
+- https://apartresearch.com/
 
 ### Frontier Labs
 - https://openai.com/safety/
