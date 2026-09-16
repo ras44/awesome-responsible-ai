@@ -31,8 +31,9 @@
 - https://truthful.ai/
 - https://resolution.org/
 - https://epoch.ai/
+- https://www.matsprogram.org/research
 
-### Privately Funded - Education & Awareness
+### Privately Funded - Education, Policy, Awareness
 - https://bluedot.org/
 - https://www.far.ai/
 - https://www.governance.ai/
