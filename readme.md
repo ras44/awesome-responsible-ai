@@ -1,5 +1,8 @@
 # Awesome Responsible AI [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is a human-curated list of awesome responsible AI resources.  Contributions welcome. If you make a contribution, please include why you're adding it and declare any affiliations with the link in your PR/commit.
+
+Why?  I found only one other recently maintained (most recent commit < 1 year) similar list, however the author of that list also owns repos for hundreds of other awesome lists.  It looks like a land-grab.  
 
 ## Contents
 
@@ -10,7 +13,7 @@
 - [Funding](#funding)
 - [Repos](#repos)
 - [Forums](#forums)
-
+- [Papers](#papers)
 
 ## Organizations
 
@@ -128,7 +131,16 @@
 - https://www.lesswrong.com/
 - https://news.ycombinator.com/
 
+
+# Papers
+- https://github.com/brandonhimpfen/awesome-ai-research-papers
+- https://github.com/x-zheng16/Awesome-Embodied-AI-Safety
+- https://github.com/brandonhimpfen/awesome-ai-ethics
+
+
 # Related
+- https://github.com/brandonhimpfen/awesome-ai-safety-alignment (recent commits, but user has hundreds of awesome lists)
+- https://github.com/x-zheng16/Awesome-Embodied-AI-Safety (recent commits, but user has hundreds of awesome lists)
 - https://github.com/giskard-ai/awesome-ai-safety (last commit 6 as of 20160916 was last year)
 - https://github.com/hari-sikchi/awesome-ai-safety (last commit 6 as of 20160916 was years ago)
 - https://github.com/shanzson/Awesome-AI-Safety (last commit 6 as of 20160916 was last year)
