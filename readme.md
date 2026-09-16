@@ -83,6 +83,7 @@
 - https://www.arena.education/
 - https://www.matsprogram.org/
 - https://sparai.org/
+- https://aisb.dev/2026/dec/london/
 
 ### Other
 - https://futureimpact.group/fellowship
