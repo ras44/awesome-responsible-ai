@@ -20,6 +20,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 ### Government
 - https://www.aisi.gov.uk/
 - https://www.nist.gov/caisi
+- https://ndif.us/
 - https://aisi.go.jp/
 - https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
 
