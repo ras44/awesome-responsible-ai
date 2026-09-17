@@ -55,6 +55,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://saif.org/
 - https://pauseai.info/
 - https://intelligence.org/
+- https://www.existence.org/
 
 ### Frontier Labs
 - https://openai.com/safety/
@@ -118,7 +119,6 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 
 ## Funding
 - https://coefficientgiving.org/tailwind/
-
 
 ## Repos
 - https://github.com/callummcdougall/ARENA_3.0
