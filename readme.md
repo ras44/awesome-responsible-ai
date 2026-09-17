@@ -54,6 +54,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://kira.eu/
 - https://saif.org/
 - https://pauseai.info/
+- https://intelligence.org/
 
 ### Frontier Labs
 - https://openai.com/safety/
@@ -132,13 +133,19 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://news.ycombinator.com/
 
 
-# Papers
+
+## Papers
 - https://github.com/brandonhimpfen/awesome-ai-research-papers
 - https://github.com/x-zheng16/Awesome-Embodied-AI-Safety
 - https://github.com/brandonhimpfen/awesome-ai-ethics
 
 
-# Related
+## Mass Media
+- https://ifanyonebuildsit.com/
+- https://www.focusfeatures.com/the-ai-doc-or-how-i-became-an-apocaloptimist#watch
+
+
+## Related
 - https://github.com/brandonhimpfen/awesome-ai-safety-alignment (recent commits, but user has hundreds of awesome lists)
 - https://github.com/x-zheng16/Awesome-Embodied-AI-Safety (recent commits, but user has hundreds of awesome lists)
 - https://github.com/giskard-ai/awesome-ai-safety (last commit 6 as of 20160916 was last year)
