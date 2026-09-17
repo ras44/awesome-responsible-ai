@@ -144,6 +144,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://github.com/brandonhimpfen/awesome-ai-research-papers
 - https://github.com/x-zheng16/Awesome-Embodied-AI-Safety
 - https://github.com/brandonhimpfen/awesome-ai-ethics
+- https://transformer-circuits.pub/
 
 
 
