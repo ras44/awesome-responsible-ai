@@ -35,6 +35,8 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://resolution.org/
 - https://epoch.ai/
 - https://www.matsprogram.org/research
+- https://blog.eleuther.ai/
+- https://cadenzalabs.org/
 
 ### Privately Funded - Education, Policy, Awareness
 - https://bluedot.org/
@@ -124,6 +126,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://github.com/callummcdougall/ARENA_3.0
 - https://github.com/TransformerLensOrg/TransformerLens
 - https://github.com/meridianlabs-ai
+- https://github.com/ndif-team/nnsight
 
 
 ## Forums
@@ -135,9 +138,13 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 
 
 ## Papers
+
+### Collections
 - https://github.com/brandonhimpfen/awesome-ai-research-papers
 - https://github.com/x-zheng16/Awesome-Embodied-AI-Safety
 - https://github.com/brandonhimpfen/awesome-ai-ethics
+
+
 
 
 ## Mass Media
