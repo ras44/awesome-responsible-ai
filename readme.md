@@ -160,6 +160,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - [A Survey of Transformers(2021)](https://arxiv.org/pdf/2106.04554)
 - [Efficient Attention Mechanisms for Large Language Models: A Survey (2025)](https://arxiv.org/pdf/2507.19595)
 - [A Survey of Large Language Models(2023-2026)](https://arxiv.org/pdf/2303.18223)
+- [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238)
 
 
 #### Transformers
@@ -170,6 +171,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://jalammar.github.io/illustrated-transformer/
 - https://nlp.seas.harvard.edu/annotated-transformer/
 - [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238)
+- [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 ### Courses
 - https://www.deeplearning.ai/courses/how-transformer-llms-work?utm_campaign=handsonllm-launch&utm_medium=partner
