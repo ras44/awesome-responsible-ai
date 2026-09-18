@@ -100,6 +100,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://sparai.org/
 - https://aisb.dev/2026/dec/london/
 - https://gradualempowerment.org/
+- https://www.aisafety.camp/home
 
 ### Other
 - https://futureimpact.group/fellowship
