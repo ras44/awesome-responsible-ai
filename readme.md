@@ -155,9 +155,9 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 ### Articles
 
 #### Attention
-https://jalammar.github.io/illustrated-transformer/
-https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
-https://nlp.seas.harvard.edu/annotated-transformer/
+- https://jalammar.github.io/illustrated-transformer/
+- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+- https://nlp.seas.harvard.edu/annotated-transformer/
 
 
 ## Related
