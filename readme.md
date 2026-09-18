@@ -154,7 +154,17 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 
 ### Articles
 
+#### Reviews
+- [A Critical Review of Recurrent Neural Networks for Sequence Learning(2015)](https://arxiv.org/pdf/1506.00019)
+- [A Primer on Neural Network Models for Natural Language Processing (2015)](https://arxiv.org/pdf/1510.00726)
+- [A Survey of Transformers(2021)](https://arxiv.org/pdf/2106.04554)
+- [Efficient Attention Mechanisms for Large Language Models: A Survey (2025)](https://arxiv.org/pdf/2507.19595)
+- [A Survey of Large Language Models(2023-2026)](https://arxiv.org/pdf/2303.18223)
+
+
 #### Transformers
+- [2014 - seq2seq](https://proceedings.neurips.cc/paper_files/paper/2014/file/5a18e133cbf9f257297f410bb7eca942-Paper.pdf)
+- [2015 - Early Attention](https://arxiv.org/pdf/1409.0473)
 - https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - https://jalammar.github.io/illustrated-transformer/
