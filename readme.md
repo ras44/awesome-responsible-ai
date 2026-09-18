@@ -11,9 +11,10 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - [Accelerators](#accelerators)
 - [Communities](#communities)
 - [Funding](#funding)
-- [Repos](#repos)
+- [Software](#software)
 - [Forums](#forums)
-- [Papers](#papers)
+- [Learning](#learning)
+- [Related](#related)
 
 ## Organizations
 
@@ -66,7 +67,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://www.anthropic.com/company
 - https://www.microsoft.com/en-us/ai/principles-and-approach
 
-### Academia & Clubs
+### Academia
 - https://hai.stanford.edu/
 - https://citp.princeton.edu/
 
@@ -120,10 +121,12 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://aisafetycolombia.org/
 - https://www.aisafety.sg/
 
+
 ## Funding
 - https://coefficientgiving.org/tailwind/
 
-## Repos
+
+## Software
 - https://github.com/callummcdougall/ARENA_3.0
 - https://github.com/TransformerLensOrg/TransformerLens
 - https://github.com/meridianlabs-ai
@@ -137,8 +140,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://news.ycombinator.com/
 
 
-
-## Papers
+## Learning
 
 ### Collections
 - https://github.com/brandonhimpfen/awesome-ai-research-papers
@@ -146,12 +148,16 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://github.com/brandonhimpfen/awesome-ai-ethics
 - https://transformer-circuits.pub/
 
-
-
-
-## Mass Media
+### Books
+- https://d2l.ai/
 - https://ifanyonebuildsit.com/
-- https://www.focusfeatures.com/the-ai-doc-or-how-i-became-an-apocaloptimist#watch
+
+### Articles
+
+#### Attention
+https://jalammar.github.io/illustrated-transformer/
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+https://nlp.seas.harvard.edu/annotated-transformer/
 
 
 ## Related
