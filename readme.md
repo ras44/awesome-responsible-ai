@@ -175,7 +175,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 ### Courses
-- https://www.deeplearning.ai/courses/how-transformer-llms-work?utm_campaign=handsonllm-launch&utm_medium=partner
+- https://www.deeplearning.ai/courses/how-transformer-llms-work
 
 
 ## Related
