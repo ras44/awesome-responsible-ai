@@ -159,6 +159,9 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - https://nlp.seas.harvard.edu/annotated-transformer/
 
+### Courses
+- https://www.deeplearning.ai/courses/how-transformer-llms-work?utm_campaign=handsonllm-launch&utm_medium=partner
+
 
 ## Related
 - https://github.com/brandonhimpfen/awesome-ai-safety-alignment (recent commits, but user has hundreds of awesome lists)
