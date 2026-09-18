@@ -169,6 +169,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - https://jalammar.github.io/illustrated-transformer/
 - https://nlp.seas.harvard.edu/annotated-transformer/
+- [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238)
 
 ### Courses
 - https://www.deeplearning.ai/courses/how-transformer-llms-work?utm_campaign=handsonllm-launch&utm_medium=partner
