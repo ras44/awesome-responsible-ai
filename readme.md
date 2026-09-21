@@ -60,6 +60,8 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://pauseai.info/
 - https://intelligence.org/
 - https://www.existence.org/
+- https://princint.ai/
+- https://www.iliad.ac/
 
 ### Frontier Labs
 - https://openai.com/safety/
