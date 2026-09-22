@@ -64,6 +64,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://princint.ai/
 - https://www.iliad.ac/
 - https://www.seismic.org/
+- https://www.humanetech.com/
 
 ### Frontier Labs
 - https://openai.com/safety/
