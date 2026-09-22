@@ -19,6 +19,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 ## Organizations
 
 ### Government
+- https://www.iaseai.org/
 - https://www.aisi.gov.uk/
 - https://www.nist.gov/caisi
 - https://ndif.us/
