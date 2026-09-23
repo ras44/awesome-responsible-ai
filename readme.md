@@ -85,7 +85,6 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://www.safeai.org.uk/
 - https://www.recursive.to/
 
-
 ## Accelerators
 
 ### Journalism
@@ -147,6 +146,11 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 - https://news.ycombinator.com/
 
 
+## Mass Media
+- https://thefaultlineseismic.substack.com/
+- https://ifanyonebuildsit.com/
+
+
 ## Learning
 
 ### Collections
@@ -157,7 +161,6 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 
 ### Books
 - https://d2l.ai/
-- https://ifanyonebuildsit.com/
 
 ### Articles
 
