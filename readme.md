@@ -186,6 +186,8 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 ### Courses
 - https://www.deeplearning.ai/courses/how-transformer-llms-work
 
+### Historical
+- https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf
 
 ## Related
 - https://github.com/brandonhimpfen/awesome-ai-safety-alignment (recent commits, but user has hundreds of awesome lists)
