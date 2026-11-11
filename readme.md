@@ -161,6 +161,7 @@ Why?  I found only one other recently maintained (most recent commit < 1 year) s
 
 ### Books
 - https://d2l.ai/
+- https://tsglab.github.io/mechinterp-safety/handbook/research-orientations/
 
 ### Articles
 
